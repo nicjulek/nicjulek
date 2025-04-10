@@ -1,35 +1,41 @@
-<h1 align="center">Olá! Eu sou a Nicole! 💖</h1>
+<h1 align="center" style="color: pink;">Olá! Eu sou a Nicole! 💖</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=1E90FF&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedora+apaixonada+por+tecnologia;Sempre+aprendendo+algo+novo!+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=1E90FF&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Apaixonada+por+tecnologia;Sempre+aprendendo+algo+novo!+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
 ---
-
 ### 🌟 Sobre mim
-- 💻 Desenvolvedora com foco em:
-    - **Frontend**
-    - **Backend**
-    - **Fullstack**
-    - **Design**
-- 🎓 Estudando: **Engenharia de Software**.
-- 🌱 Atualmente aprendendo:
-    - **React**
-    - **Typescript**
-    - **Three.js**
-    - **Fabric.js**
-    - **Node**
-    - **Figma**
-- 💬 Pergunte-me sobre:
-    - **Jogos**
-    - **Geografia**
-    - **Desenhar**
-    - **Programação**
-- ⚡ Curiosidades:
-    - **Gosto de explorar países e aprender sobre diferentes culturas.**
-    - **Tenho interesse em desenhar e criar ilustrações.**
-    - **Sou apaixonada por leitura e sempre procuro novos livros.**
-    - **Gosto de jogos que estimulam criatividade e estratégia.**
+---
+
+#### 💻 Desenvolvedora com foco em:
+- **Frontend**
+- **Backend**
+- **Fullstack**
+- **Design**
+
+#### 🎓 Estudando:
+- **Engenharia de Software - UEPG**
+
+#### 🌱 Atualmente aprendendo:
+- **React**
+- **Typescript**
+- **Three.js**
+- **Fabric.js**
+- **Node**
+- **Figma**
+
+#### 💬 Pergunte-me sobre:
+- **Jogos**
+- **Geografia**
+- **Desenhar**
+- **Programação**
+
+#### ⚡ Curiosidades:
+- **Gosto de explorar países e aprender sobre diferentes culturas.**
+- **Tenho interesse em desenhar e criar ilustrações.**
+- **Sou apaixonada por leitura e sempre procuro novos livros.**
+- **Gosto de jogos que estimulam criatividade e estratégia.**
 
 ---
 
