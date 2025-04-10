@@ -1,4 +1,4 @@
-<h1 align="center" style="color: pink;">Olá! Eu sou a Nicole! 💖</h1>
+<h1 align="center">Olá! Eu sou a Nicole! 💖</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=1E90FF&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Apaixonada+por+tecnologia;Sempre+aprendendo+algo+novo!+%F0%9F%8C%8D" alt="Typing SVG" />
