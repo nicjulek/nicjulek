@@ -3,7 +3,7 @@
     <td width="100%" valign="top">
       <h1 align="left">Olá, eu sou a Nicole! 👋✨</h1>
       <div align="left">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=87CEFA&center=false&vCenter=true&width=435&lines=Bem-vinda(o)+ao+meu+universo!+💖;Desenvolvedora+Fullstack;Apaixonada+por+geografia+e+games;Explorando+novos+mundos...+em+código+e+no+GeoGuessr!+🗺️" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=FF84E8&center=false&vCenter=true&width=435&lines=Bem-vinda(o)+ao+meu+universo!+💖;Desenvolvedora+Fullstack!;Apaixonada+por+games!;Explorando+novos+mundos+em+código!" alt="Typing SVG" />
         <p>
           Sou uma desenvolvedora e estudante de Engenharia de Software na UEPG, fascinada por criar soluções que unem lógica e design. Tenho um carinho especial por narrativas profundas e atmosferas imersivas, seja em um filme do Studio Ghibli, em um drama como <i>Past Lives</i> ou nas ruas misteriosas de <i>Disco Elysium</i>. Meu objetivo é trazer um pouco dessa magia para o mundo da tecnologia.
         </p>
