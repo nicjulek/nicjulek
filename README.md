@@ -3,9 +3,9 @@
     <td width="100%" valign="top">
       <h1 align="left">Olá, eu sou a Nicole! 👋✨</h1>
       <div align="left">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=FF84E8&center=false&vCenter=true&width=435&lines=Bem-vinda(o)+ao+meu+universo!+💖;Desenvolvedora+Fullstack!;Apaixonada+por+games!;Explorando+novos+mundos+em+código!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=FF84E8&center=false&vCenter=true&width=435&lines=Bem-vinda(o)+ao+meu+universo!+💖;Desenvolvedora!;Apaixonada+por+games!;Explorando+novos+mundos+em+código!" alt="Typing SVG" />
         <p>
-          Sou uma desenvolvedora e estudante de Engenharia de Software na UEPG, fascinada por criar soluções que unem lógica e design. Tenho um carinho especial por narrativas profundas e atmosferas imersivas, seja em um filme do Studio Ghibli, em um drama como <i>Past Lives</i> ou nas ruas misteriosas de <i>Disco Elysium</i>. Meu objetivo é trazer um pouco dessa magia para o mundo da tecnologia.
+          Sou uma desenvolvedora e estudante de Engenharia de Software na UEPG, fascinada por criar soluções que unem lógica e design. Tenho um carinho especial por narrativas profundas e imersivas, seja em um filme do <i>Studio Ghibli</i>, em um drama como <i>Past Lives</i> ou nas ruas misteriosas de <i>Disco Elysium</i>. Meu objetivo é trazer um pouco dessa magia para o mundo da tecnologia.
         </p>
       </div>
     </td>
@@ -29,14 +29,15 @@
       </div>
       <p>
         🔹 <strong>Graduanda em Engenharia de Software</strong> - UEPG<br>
-        🔹 <strong>Foco:</strong> Desenvolvimento Frontend, Backend e Design UI/UX.<br>
+        🔹 <strong>Foco:</strong> Desenvolvimento Frontend e Design UI/UX.<br>
       </p>
       <div align="center">
-        <h3>🌱 O que estou estudando</h3>
+        <h3>🌱 O que estou estudando?</h3>
       </div>
       <p>
         Atualmente, estou me aprofundando em tecnologias que dão vida a ideias criativas, como se fossem feitiços de um novo grimório:
         <br>
+        ✨ <strong>Angular</strong> - Criando aplicações web com componentes.<br>
         ✨ <strong>React & TypeScript</strong> - Para interfaces dinâmicas e robustas.<br>
         ✨ <strong>Three.js & Fabric.js</strong> - Explorando o universo 3D e a manipulação de canvas.<br>
         ✨ <strong>Node.js</strong> - Fortalecendo o backend das minhas aplicações.<br>
@@ -45,14 +46,14 @@
     </td>
     <td valign="top" width="50%">
       <div align="center">
-        <h3>💬 Meus Mundos & Interesses</h3>
+        <h3>💬 Meus Interesses</h3>
       </div>
       <p>
-        Sinta-se à vontade para me chamar para uma conversa sobre qualquer um destes tópicos. Adoro compartilhar ideias!
+        Sinta-se à vontade para me chamar para uma conversa sobre qualquer um destes tópicos!
         <br><br>
         🎮 <strong>Games:</strong> De <i>Hollow Knight</i> a <i>GeoGuessr</i>, amo desafios que exigem estratégia e exploração.<br>
-        🎬 <strong>Cinema & Animação:</strong> Dramas como <i>Aftersun</i>, o terror atmosférico de <i>Nosferatu</i> e, claro, tudo de <i>Sailor Moon</i> e Studio Ghibli.<br>
-        🎨 <strong>Arte & Desenho:</strong> Estou sempre rabiscando e criando ilustrações nas horas vagas.<br>
+        🎬 <strong>Cinema & Animação:</strong> Dramas como <i>Aftersun</i>, o terror de <i>Nosferatu</i> e, claro, tudo de <i>Sailor Moon</i> e Studio Ghibli.<br>
+        🎨 <strong>Arte & Desenho:</strong> Estou sempre rabiscando no meu caderno e criando ilustrações nas horas vagas.<br>
         🌍 <strong>Culturas & Viagens:</strong> Explorar o mapa é uma das minhas maiores paixões, seja no mundo real ou virtual.
       </p>
     </td>
@@ -61,7 +62,7 @@
 
 ---
 
-### <p align="center">🛠️ Meu Arsenal de Tecnologias</p>
+### <p align="center">🛠️ Tecnologias </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
