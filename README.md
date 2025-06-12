@@ -35,7 +35,7 @@
         <h3>🌱 O que estou estudando?</h3>
       </div>
       <p>
-        Atualmente, estou me aprofundando em tecnologias que dão vida a ideias criativas, como se fossem feitiços de um novo grimório:
+        Atualmente, estou me aprofundando em tecnologias que dão vida a ideias criativas:
         <br>
         ✨ <strong>Angular</strong> - Criando aplicações web com componentes.<br>
         ✨ <strong>React & TypeScript</strong> - Para interfaces dinâmicas e robustas.<br>
